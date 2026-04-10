@@ -10,7 +10,7 @@ supervised machine learning classifier.
 
 The dataset used in this project is:
 
-    twitter_training.csv
+[twitter_training.csv]
 
 This project demonstrates a complete NLP pipeline from raw tweets to
 sentiment prediction.
